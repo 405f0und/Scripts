@@ -1,7 +1,7 @@
 # Import the Active Directory module
 Import-Module ActiveDirectory
 
-# !!Need Update!! Set the path to the CSV file
+# Set the path to the CSV file
 $csvPath = "C:\Users\Administrator\Desktop\Project Test\Test.csv"  
 
 # Update the path to the actual CSV file
