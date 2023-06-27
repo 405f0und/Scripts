@@ -1,0 +1,32 @@
+GivenName,Surname,Name,sAMAccountName,Title,Company,Department,OU,AccountPassword
+Chibueze,Nnamdi,Chibueze Nnamdi,CNnamdi,Energy Analyst,GreenSpark,Consulting,"OU=Consulting,DC=corp,DC=globex,DC=com",P@ssw0rd
+David,Lee,David Lee,DLee,Energy Consultant,GreenSpark,Consulting,"OU=Consulting,DC=corp,DC=globex,DC=com",P@ssw0rd
+Emily,Salish,Emily Salish,ESalish,Energy Consultant,GreenSpark,Consulting,"OU=Consulting,DC=corp,DC=globex,DC=com",P@ssw0rd
+Mark ,Johnson,Mark  Johnson,MJohnson,Chief Consultant,GreenSpark,Consulting,"OU=Consulting,DC=corp,DC=globex,DC=com",P@ssw0rd
+Maria,Petrov,Maria Petrov,MPetrov,Sustainability Consultant,GreenSpark,Consulting,"OU=Consulting,DC=corp,DC=globex,DC=com",P@ssw0rd
+Rachel,Kim,Rachel Kim,RKim,Senior Energy Consultant,GreenSpark,Consulting,"OU=Consulting,DC=corp,DC=globex,DC=com",P@ssw0rd
+Sarah,Lee ,Sarah Lee ,SLee ,Senior Sustainability Consultant,GreenSpark,Consulting,"OU=Consulting,DC=corp,DC=globex,DC=com",P@ssw0rd
+Audrey,Singh,Audrey Singh,ASingh,Marketing Manager,GreenSpark,Marketing,"OU=Marketing,DC=corp,DC=globex,DC=com",P@ssw0rd
+Grace,Kim,Grace Kim,GKim,Director of Marketing,GreenSpark,Marketing,"OU=Marketing,DC=corp,DC=globex,DC=com",P@ssw0rd
+John,Kim,John Kim,JKim,Content Writer,GreenSpark,Marketing,"OU=Marketing,DC=corp,DC=globex,DC=com",P@ssw0rd
+Mariam,Hassan,Mariam Hassan,MHassan,Graphic Designer,GreenSpark,Marketing,"OU=Marketing,DC=corp,DC=globex,DC=com",P@ssw0rd
+Maria,Hernandez,Maria Hernandez,MHernandez,Marketing Coordinator,GreenSpark,Marketing,"OU=Marketing,DC=corp,DC=globex,DC=com",P@ssw0rd
+Sophia,Park,Sophia Park,SPark1,Digital Marketing Manager,GreenSpark,Marketing,"OU=Marketing,DC=corp,DC=globex,DC=com",P@ssw0rd
+Damian,Nowak,Damian Nowak,DNowak,IT Specialist,GreenSpark,Operations,"OU=Operations,DC=corp,DC=globex,DC=com",P@ssw0rd
+Kelly,Park,Kelly Park,KPark,Director of Operations,GreenSpark,Operations,"OU=Operations,DC=corp,DC=globex,DC=com",P@ssw0rd
+Michelle,Ward,Michelle Ward,MWard,Accountant,GreenSpark,Operations,"OU=Operations,DC=corp,DC=globex,DC=com",P@ssw0rd
+Olivia,Stephens,Olivia Stephens,OStephens,Office Manager,GreenSpark,Operations,"OU=Operations,DC=corp,DC=globex,DC=com",P@ssw0rd
+Rachel,Green,Rachel Green,RGreen,Administrative Assistant,GreenSpark,Operations,"OU=Operations,DC=corp,DC=globex,DC=com",P@ssw0rd
+Sarah,Park,Sarah Park,SPark2,Human Resources Manager,GreenSpark,Operations,"OU=Operations,DC=corp,DC=globex,DC=com",P@ssw0rd
+Andrew,Liu,Andrew Liu,ALiu,Project Coordinator,GreenSpark,Project Management,"OU=ProjectManagement,DC=corp,DC=globex,DC=com",P@ssw0rd
+Hannah,Burtons,Hannah Burtons,HBurtons,Project Coordinator,GreenSpark,Project Management,"OU=ProjectManagement,DC=corp,DC=globex,DC=com",P@ssw0rd
+Katherine,James,Katherine James,KJames,Project Manager,GreenSpark,Project Management,"OU=ProjectManagement,DC=corp,DC=globex,DC=com",P@ssw0rd
+Lily,Park,Lily Park,LPark,Project Manager,GreenSpark,Project Management,"OU=ProjectManagement,DC=corp,DC=globex,DC=com",P@ssw0rd
+Mateusx,Kowalski,Mateusx Kowalski,MKowalski,Senior Project Manager,GreenSpark,Project Management,"OU=ProjectManagement,DC=corp,DC=globex,DC=com",P@ssw0rd
+Alex,Kim,Alex Kim,AKim,Director of Sales,GreenSpark,Sales,"OU=Sales,DC=corp,DC=globex,DC=com",P@ssw0rd
+Cindy,Zho,Cindy Zho,CZho,Sales Manager,GreenSpark,Sales,"OU=Sales,DC=corp,DC=globex,DC=com",P@ssw0rd
+Eric,Sorbo,Eric Sorbo,ESorbo,Sales Coordinator,GreenSpark,Sales,"OU=Sales,DC=corp,DC=globex,DC=com",P@ssw0rd
+James,Lee,James Lee,JLee,Sales Representative,GreenSpark,Sales,"OU=Sales,DC=corp,DC=globex,DC=com",P@ssw0rd
+Salim,Al-Farisi,Salim Al-Farisi,SAl-Farisi,Sales Representative,GreenSpark,Sales,"OU=Sales,DC=corp,DC=globex,DC=com",P@ssw0rd
+Tyler,Walsh,Tyler Walsh,TWalsh,Business Development Manager,GreenSpark,Sales,"OU=Sales,DC=corp,DC=globex,DC=com",P@ssw0rd
+Olivia,Santos,Olivia Santos,OSantos,CEO,GreenSpark,Senior Management,"OU=SeniorManagement,DC=corp,DC=globex,DC=com",P@ssw0rd
