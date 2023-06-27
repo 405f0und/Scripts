@@ -2,16 +2,13 @@
 
 # Welcome to our Scripts repository
 
-This repository will contain all of the scripts and related information that we used as part of this project. The scripts included for our basic Ubuntu setup are scripts from the [Computer Setup Instructions](https://codefellows.github.io/setup-guide/). This was used as part of our lab 5 in ops-102d8.
+This repository will contain all of the scripts and related information that we used as part of this project. 
 
-These scripts help with efficiency and quickly being able to replicate systems, settings, etc. to our standards and practices. The included scripts were mainly used for quick setup of the Ubuntu Desktop that we are using as a server for this project as well as some of the employee user machines. It runs and installs all of the basic preferences to be up and running with virtual machines capabilities as well as remote connection enabled.
+[AdUsersScript.ps1](https://github.com/405f0und/Scripts/blob/main/AddUsersScript.ps1)
+* This script automates the process of creating profiles for new users in Active Directory, saving hours of work during an acquisition. The script requires a file path to a CSV file with user data in the follwoing [format](https://github.com/405f0und/Scripts/blob/main/GreenSpark_Personnel_CSV.csv).
 
-<br>
 
 ## Resources
-
-[Bash Introduction](https://www.geeksforgeeks.org/bash-scripting-introduction-to-bash-and-bash-scripting/)
-
-[Computer Setup Instructions](https://codefellows.github.io/setup-guide/)
-
-[Devhints](https://devhints.io/bash)
+We utilized the following resources to help create this script:
+* [Server Academy](https://www.serveracademy.com/blog/create-ad-users-from-csv-with-powershell/)
+* [Microsoft Documenation](https://learn.microsoft.com/en-us/powershell/module/activedirectory/new-aduser?view=windowsserver2019-ps)
